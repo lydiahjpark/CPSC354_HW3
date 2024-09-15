@@ -45,11 +45,11 @@ When I asked ChatGPT about how programming languages contribute to the security 
 - Null Safety: languages like Swift offer built-in null safety, requiring explicit handling of nullable types to avoid null pointer dereference errors that could be exploited for attacks like DoS.
 
 # Refernce
-[Programming Paradigms](https://mattburgess.medium.com/programming-paradigms-procedural-object-oriented-and-functional-programming-23a587c6a537)
-[Type systems](https://adabeat.com/fp/introduction-to-type-systems/)
-[Domain-specifc languages](https://mentormate.com/blog/designing-and-building-domain-specific-languages/#:~:text=Domain%2Dspecific%20languages%20are%20powerful,needs%2C%20can%20be%20highly%20effective.)
-[Concurrency](https://www.sciencedirect.com/science/article/pii/S2352220815000784)
-[Software Security](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
+- [Programming Paradigms](https://mattburgess.medium.com/programming-paradigms-procedural-object-oriented-and-functional-programming-23a587c6a537)
+- [Type systems](https://adabeat.com/fp/introduction-to-type-systems/)
+- [Domain-specifc languages](https://mentormate.com/blog/designing-and-building-domain-specific-languages/#:~:text=Domain%2Dspecific%20languages%20are%20powerful,needs%2C%20can%20be%20highly%20effective.)
+- [Concurrency](https://www.sciencedirect.com/science/article/pii/S2352220815000784)
+- [Software Security](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
 
 
 

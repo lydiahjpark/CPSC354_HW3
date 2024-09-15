@@ -9,6 +9,9 @@ When I asked ChatGPT the question of how different programming paradigms compare
 - Readability: Functional programming can be concise and easy to reason about for people that are familiar with it, but may seem unimutuitive for those that aren't as experienced. Procedural programming is straightforward and readable for smaller projects, but can get harder to maintain as the codebase grows due to its flat structure.
 - Maintainability: Functional programming uses of pure functions and immutability makes it highly maintainable, but may require a significant learning curve. OOP gives strong maintainability through encapsulation and abstraction. Procedural programming is maintainable in smaller projects due to its simplicity, but may suffer from from global state in larger projects unless modular programming techniques are applied.
 
+I thought this response was well-rounded, as its comparison highlited how efficiency, readbility, and maintability differed across functional, object-oriented, and procedural paradigms. It effectively captured the trade-offs but could emphasize that the best paradigm often depends on the project context and team famiiliarity. 
+
+
 # Evolution of type systems
 ## Question
 How have type systems evolved in programming languages, and what are the current trends in type inference?
@@ -20,7 +23,7 @@ When I asked ChatGPT about this question, it gave me this response: Type systems
 - Type safety: modern languages focus on null safety to prevent runtime errors and enforce strict type soundness to avoid common memory issues
 - Current trends in type systems: type-driven development models complex logic through types, structural typing increases flexibility by focusing on data structure over explicit types, and intergration with IDEs enhances productivity
 
-I thought this response was well-rounded, as its comparison highlited how efficiency, readbility, and maintability differed across functional, object-oriented, and procedural paradigms. It effectively captured the trade-offs but could emphasize that the best paradigm often depends on the project context and team famiiliarity. 
+I thought this response provided a thorough overview of the evolution of type systems, highlighting key advancements like type-inference, gradual typing, and modern trends like type-driven development and null safety. It effectively connected type system improvements to practical outcomes like error prevention. however, I think it could dive deeper into how these innovations balance developer productivity with rigorous type safety. 
 
 # Role of Domain-Specific Languages
 ## Question
@@ -52,7 +55,7 @@ When I asked ChatGPT about how programming languages contribute to the security 
 
 I thought this response effectively highlighted how programming languages enhanced security through type safety, memory management, and null safety features, emphasizing their role in preventing common vuleralbilities. It could have further explained by discussing how language design impacts security, like minimizing attack surfaces or enforcing least privilege through stricter access controls. 
 
-# Refernce
+# Reference
 - [Programming Paradigms](https://mattburgess.medium.com/programming-paradigms-procedural-object-oriented-and-functional-programming-23a587c6a537)
 - [Type systems](https://adabeat.com/fp/introduction-to-type-systems/)
 - [Domain-specifc languages](https://mentormate.com/blog/designing-and-building-domain-specific-languages/#:~:text=Domain%2Dspecific%20languages%20are%20powerful,needs%2C%20can%20be%20highly%20effective.)
